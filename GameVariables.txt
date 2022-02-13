@@ -1,0 +1,69 @@
+brother status:
+atk = v170
+tec = v172
+def = v173
+gut = v174
+wis = v171
+skillP = v10
+libido = v18 (sexual desire or lust)
+maxEnergy = v15
+energy = v16
+maxAP = v13
+condition = v47 (state...¿?)
+physicalCondition = v14 (health...AP)
+
+condition state ranges:
+c >= 3, c == 2, c == 1, c == 0, c == -1, c == -2
+
+
+
+
+items:
+money = v7 (max 6nueves 999999)
+tea = v89 to v96
+books = v275 to v277
+Hitems = v284 to v288, v324 to v328
+
+
+
+
+guild:
+guildRep = v11
+guildStrength = v28 ¿?
+kanaSensivity = v40
+kanaLv = v41   (lv = love or favor?)
+yuisensivity = v42
+yuilv = v43
+kasumisensivity = v44
+kasumilv = v45
+
+
+guild rep ranges:
+gr >= 110, gr >= 90, gr >= 80, gr >= 70, gr >= 60, gr >= 40, gr >= 30, gr >= 20, gr >= 10
+
+
+
+
+time:
+v4 = hour (18 default)
+v5 = minutes (00 default)
+v6 = day (dont touch it)
+
+
+
+
+sister status:
+trust = v21
+interest = v22
+mood = v23
+libido = v102
+
+sister mood states:
+m <= 2, m <= 4, m <= 6, m <= 8, m <= 10
+
+
+
+pants possesions:
+v400 to v420 == 0 o 1 (boolean)
+
+

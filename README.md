@@ -48,5 +48,7 @@ This menu features:
   - Menu restructuring
   - Added missing variables
   - Added option to go to the title
+- 1.1
+  - Correction of errors
 - 1.0
   - Initial release

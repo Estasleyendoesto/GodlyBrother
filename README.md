@@ -44,6 +44,8 @@ This menu features:
 
 ## Change-Log
 
+- 1.9
+  - Added time control
 - 1.8
   - Menu restructuring
   - Added missing variables

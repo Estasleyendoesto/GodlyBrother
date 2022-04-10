@@ -1,8 +1,5 @@
 # Godly Brother for Sister! Seifuku -Fantasy-
 
-![](https://img.dlsite.jp/modpub/images2/work/doujin/RJ339000/RJ338582_img_main.webp)
-
-
 
 ## Info
 

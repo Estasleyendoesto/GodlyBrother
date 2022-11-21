@@ -41,15 +41,19 @@ This menu features:
 
 ## Change-Log
 
-- 2.0.1
-  - Reset version and updated to 1.3.1
-- 1.9
+- 0.5.2
+  - Updated to version 1.3.1 TL 0.4
+- 0.5.1
+  - Updated to version 1.2.1 TL 0.3
+- 0.5
+  - Updated to version 1.1.3 TL 0.2
+- 0.4
   - Added time control
-- 1.8
+- 0.3
   - Menu restructuring
   - Added missing variables
   - Added option to go to the title
-- 1.1
+- 0.2
   - Correction of errors
-- 1.0
+- 0.1
   - Initial release

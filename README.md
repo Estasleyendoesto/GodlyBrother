@@ -4,7 +4,7 @@
 ## Info
 
 - **Developer**: Inusuku [DLsite](https://www.dlsite.com/maniax/announce/=/product_id/RJ338582.html) - [Ci-en](https://ci-en.dlsite.com/creator/64)
-- **Game Version**: 1.1.1 TL 0.1
+- **Game Version**: 1.3.1 TL 0.4
 - **OS**: Windows
 - **Prequel**: [Imouto! Life -Monochrome-](https://f95zone.to/threads/imouto-life-monochrome-v2-0-1-inusuku.37378/)
 - **Modder**: [Estasleyendoesto](https://f95zone.to/members/estasleyendoesto.2376322/)
@@ -41,6 +41,8 @@ This menu features:
 
 ## Change-Log
 
+- 2.0.1
+  - Reset version and updated to 1.3.1
 - 1.9
   - Added time control
 - 1.8

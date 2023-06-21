@@ -4,7 +4,7 @@
 ## Info
 
 - **Developer**: Inusuku [DLsite](https://www.dlsite.com/maniax/announce/=/product_id/RJ338582.html) - [Ci-en](https://ci-en.dlsite.com/creator/64)
-- **Game Version**: 1.3.1 TL 0.4
+- **Game Version**: 1.4.3 TL
 - **OS**: Windows
 - **Prequel**: [Imouto! Life -Monochrome-](https://f95zone.to/threads/imouto-life-monochrome-v2-0-1-inusuku.37378/)
 - **Modder**: [Estasleyendoesto](https://f95zone.to/members/estasleyendoesto.2376322/)
@@ -41,6 +41,13 @@ This menu features:
 
 ## Change-Log
 
+- 0.6
+  - Updated to version 1.4.3 TL
+  - Added night functions
+  - Switching to Inusuku debug tool
+  - Added interactive in-game button
+  - Variables update now updates the game interface in real time
+  - The increase in variables has been modified
 - 0.5.2
   - Updated to version 1.3.1 TL 0.4
 - 0.5.1
